@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mikehaertl/phpwkhtmltopdf": "^2.5",
+        "phpoffice/phpword": "^1.0",
+        "dompdf/dompdf": "^2.0"
+    }
+}
